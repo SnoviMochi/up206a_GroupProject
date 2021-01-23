@@ -1,2 +1,26 @@
 *See Readme For Report*
+
 **This document will be updates about the project**
+
+#  Introduction:
+
+I am working on a capstone project with a group that is focusing on Youth Diversion programs, and contracting with the County of LA. Our client is the Los Angeles County Youth Diversion & Development division (YDD), which is a subdivision of the Los Angeles County Office of Diversion & Reentry (ODR). YDD is responsible for managing service alternatives (diversion) for youth who come in contact with law enforcement. YDD provides financial support to community based organizations (CBO’s) that deliver direct diversion services to youth. YDD is currently going through a period of expansion, and will eventually become its own agency, the Department of Youth Development (DYD). This transformation is the result of a Los Angeles County ​board motion​ passed in November of 2019, directing ODR (YDD) to co-convene a Youth Justice Work Group and develop a new model for the County. 
+Due to this expansion, YDD/DYD will need to work with a larger pool of local CBOs to provide diversion services. Currently, the process to become an approved youth diversion provider in Los Angeles County is complex and stratified. CBOs must be contracted with YDD, and the contracting and disbursement process is managed through the County’s Department of Health Services (DHS). While YDD has tried to be more creative and equitable with their contracting process in the past, they are still obligated to abide by many of the disbursement standards that exist in the county. Our client has identified that these standards can be especially cumbersome and challenging to meet for CBOs, who often struggle to identify stable funding streams. Our client has described this process as inaccessible, with burdensome reporting requirements, fee for service structures, and only single-year funding. Due to the onerous contracting process, many smaller, albeit effective CBOs, are locked out of accessing these public funds due to a lack of resources to procure them.
+To remedy the current issues with contracting and effectively scale-up diversion services, YDD is seeking innovative solutions to improve the current contracting process, making it more accessible, efficient, and equitable. CBOs play a crucial role in the prevention and diversion process for at risk young people, and the mission to divert youth from the justice system cannot be achieved without their participation, which requires their access to government contracting and grants.
+
+*What I hope to accomplish with GIS.* Mapping data of law enforcement encounters with youth, throughout LA County. Mapping out socio-economic geographies of neighborhoods, high school graduation rates by neighborhood, school budgets, and census data, in order to measure impacts overtime and see how the government has attempted to remedy these disparities. Overlaying the previous data to see how crime is correlated. Overlaying where currently community based organizations are located.
+
+
+# What is the Importance?
+Working with our clients, I see this data can be important to bring light to where county funding should be streamlined too, where there is a need to invest in certain neighborhoods, and to create more transparency of why youth are impacted by these things.
+
+
+# Data Source  
+*Possible Data*
+I may have access to LAPD youth arrest data https://data.lacity.org/A-Safe-City/Crime-Data-from-2020-to-Present/2nrs-mtv8
+https://data1.cde.ca.gov/dataquest/SearchName.asp?rbTimeFrame=oneyear&rYear=2012-13&cName=Los+Angeles+Unified&Topic=Graduates&Level=District&submit1=Submit
+
+# Resulting visualizations 
+I am hoping to have a comprehensive map of LA County with youth crime, community based organizations, socio-economic disparities of a neighborhood all on the same map.
+# Conclusion
+I hope that I can show where the greatest need for investment is.
